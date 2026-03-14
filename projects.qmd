@@ -4,7 +4,7 @@ title: "Projects"
 
 ## ![](logos/ucla.png){width=40} UCLA Football Sports Science Database
 
-Developing an interactive sports science database integrating strength training and performance data across the UCLA football roster. The platform allows coaches and performance staff to monitor athlete development, uncover relationships between strength development and on-field performance, and benchmark players across the team.
+Developing an interactive sports science database integrating comprehensive Catapult GPS data and VALD strength metrics to help coaches evaluate player load and performance. The platform allows coaches and performance staff to monitor athlete development, uncover relationships between strength development and on-field performance, and benchmark players across the team.
 
 Key features:
 
