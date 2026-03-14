@@ -23,7 +23,7 @@ Key features:
 
 Built an RShiny scouting platform that consolidates advanced analytics on every college football player and ranks transfer portal prospects based on projected on-field contribution and fit with UCLA.
 
-The platform is used by UCLA Football personnel staff to support recruiting and roster management decisions. Available publicly now with the transfer portal window officially closed.
+The platform is used by UCLA Football personnel staff to support recruiting and roster management decisions. Available for public use now that the transfer portal window has officially closed.
 
 Key features:
 
@@ -54,7 +54,7 @@ Tech stack:
 
 ---
 
-## ![](logos/bdb.png){width=40} NFL Big Data Bowl — Defensive Coverage Opportunity Modeling
+## ![](logos/bdb.png){width=40} 2026 NFL Big Data Bowl — Defensive Coverage Opportunity Modeling
 
 Collaborated in a team of three to develop a spatial analytics framework for evaluating defensive pass coverage using NFL player tracking data.
 
