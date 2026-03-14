@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Daniel Wang"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+    right:
+      - icon: github
+        href: https://github.com/dwang022
+      - icon: linkedin
+        href: https://linkedin.com/in/danielwang22
+      - icon: envelope
+        href: mailto:dwang0422@gmail.com
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

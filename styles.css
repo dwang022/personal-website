@@ -1,0 +1,97 @@
+/* css styles */
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.navbar {
+  font-weight: 500;
+}
+
+.hero {
+  text-align: center;
+  padding: 3rem 1rem 2rem 1rem;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  margin-bottom: 1rem;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+}
+
+h1, h2, h3 {
+  font-weight: 700;
+}
+
+h1 {
+  margin-bottom: 0.5rem;
+}
+
+.btn-custom {
+  display: inline-block;
+  background-color: #2774AE;
+  color: white !important;
+  padding: 0.7rem 1.2rem;
+  border-radius: 8px;
+  text-decoration: none;
+  margin: 0.5rem;
+  font-weight: 600;
+}
+
+.btn-custom:hover {
+  background-color: #1d5d89;
+}
+
+.btn-custom-outline {
+  display: inline-block;
+  border: 2px solid #2774AE;
+  color: #2774AE !important;
+  padding: 0.7rem 1.2rem;
+  border-radius: 8px;
+  text-decoration: none;
+  margin: 0.5rem;
+  font-weight: 600;
+}
+
+.btn-custom-outline:hover {
+  background-color: #2774AE;
+  color: white !important;
+}
+
+main.content {
+  max-width: 900px;
+  margin: auto;
+}
+
+p {
+  font-size: 1.05rem;
+}
+
+ul {
+  display: inline-block;
+  text-align: left;
+}
+
+.award-card {
+  background: #f8f9fa;
+  border-radius: 12px;
+  padding: 1.2rem 1.4rem;
+  margin: 1rem 0 2rem 0;
+  border: 1px solid #e9ecef;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.education-card {
+  background: #ffffff;
+  border: 1px solid #e6e6e6;
+  border-radius: 14px;
+  padding: 1.5rem 1.75rem;
+  margin: 1.25rem 0 2rem 0;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.education-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 22px rgba(0,0,0,0.08);
+}

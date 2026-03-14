@@ -1,0 +1,48 @@
+---
+title: ""
+about:
+  template: jolla
+  image: Daniel_Wang_Headshot2.jpg
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/dwang022
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/danielwang22
+    - icon: envelope
+      text: Email
+      href: mailto:dwang0422@gmail.com
+---
+
+## Hi, I'm Daniel!
+
+I am a senior at **UCLA** studying **Statistics & Data Science and Business Economics**.
+
+I am particularly passionate about **sports analytics** and enjoy building systems that help organizations make better decisions.
+
+<div style="text-align:center; margin-top:30px;">
+
+[More About Me](about.qmd){.btn .btn-primary}
+
+[View Projects](projects.qmd){.btn .btn-outline-primary}
+
+</div>
+
+------------------------------------------------------------------------
+
+## Current Work
+
+### UCLA Football
+
+I support UCLA Football’s **player personnel and scouting department** by developing analytics tools used for player evaluation. My work includes building interactive databases, automated scouting reports, and statistical models for evaluating transfer portal prospects.
+
+I am also developing a **sports science database** that integrates strength training and performance data, enabling coaches to monitor athlete development, benchmark players across the roster, and explore relationships between training outputs and on-field performance.
+
+------------------------------------------------------------------------
+
+### Orsulic Lab
+
+I lead development of a **full-stack research platform** that allows scientists to query and analyze correlations across **200,000+ biological features** spanning gene expression, drug sensitivity, nuclear imaging, and other domains in ovarian cancer datasets.
+
+
