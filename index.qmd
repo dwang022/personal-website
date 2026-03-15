@@ -23,7 +23,7 @@ I am particularly passionate about **sports analytics** and enjoy building syste
 
 <div style="text-align:center; margin-top:30px;">
 
-[More About Me](about.qmd){.btn .btn-primary}
+[About Me](about.qmd){.btn .btn-primary}
 
 [View Projects](projects.qmd){.btn .btn-outline-primary}
 
