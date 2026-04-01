@@ -19,6 +19,17 @@ Key features:
 
 ---
 
+## ![](logos/ucla.png){width=40} High School Football Scouting Database
+
+Developed an end-to-end data pipeline to scrape and structure high school football recruiting data from 247Sports, overcoming platform limitations that only surface top-ranked prospects. Integrated the data into an interactive RShiny database with dynamic filters to enable efficient prospect tracking and analysis for recruiting workflows.
+
+The only way to access all recorded high school recruits is via the 247 player search tool, which is very inefficient as it requires scrolling through the entire list of recruits. Furthermore, there is no simple way to extract this data. This tool overcomes this problem.
+
+**Live App:**  
+[Open High School Football Database](https://dwang22.shinyapps.io/hs_scraper/)
+
+---
+
 ## ![](logos/ucla.png){width=40} UCLA Football Transfer Portal Scouting App
 
 Built an RShiny scouting platform that consolidates advanced analytics on every college football player and ranks transfer portal prospects based on projected on-field contribution and fit with UCLA.
